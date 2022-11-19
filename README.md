@@ -3,9 +3,9 @@
 # Team ID : PNT2022TMID39156    
 
 
-# website link- 
+# website link- https://abinayamathi.github.io/
 
-# Demo Link - 
+# Demo Link -  https://drive.google.com/file/d/1n-WHRiJkzmLcRR8Tqw3KMIPF2ZbGCl0r/view?usp=drivesdk
  
 # TEAM MEMBERS:
              -ABINAYA.R
@@ -75,6 +75,7 @@ To develop an end-to-end web application capable of displaying the current job o
  - [x] Upload Image to IBM Container Registry
  - [x] Deploy in Kubernetes Cluster
  # Demo Link
+  https://drive.google.com/file/d/1n-WHRiJkzmLcRR8Tqw3KMIPF2ZbGCl0r/view?usp=drivesdk
   
 
  
